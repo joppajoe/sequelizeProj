@@ -1,0 +1,2 @@
+# sequelizeProj
+Sequelize-project
